@@ -1,0 +1,7 @@
+Ein MCP-Server (Model Context Protocol) von GitHub ist ein Server, der für die Kommunikation zwischen verschiedenen Modellen und Kontexten in einer Entwicklungsumgebung genutzt wird. Er ermöglicht es, Daten und Informationen effizient zwischen verschiedenen Komponenten eines Projekts auszutauschen.
+
+### Nutzung:
+- **Integration**: Ermöglicht die nahtlose Integration von Tools und Diensten in Entwicklungs-Workflows.
+- **Automatisierung**: Unterstützt die Automatisierung von Aufgaben wie Code-Analyse, Tests und Bereitstellung.
+- **Zusammenarbeit**: Fördert die Zusammenarbeit zwischen Teammitgliedern durch zentralisierte Datenverwaltung.
+- **Erweiterbarkeit**: Bietet eine Plattform für die Entwicklung und Integration benutzerdefinierter Erweiterungen.
