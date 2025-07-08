@@ -1,0 +1,5 @@
+# Ignoriere die Datei mcp.json
+mcp.json
+
+# Ignoriere alle Dateien im Ordner .vscode
+.vscode/
