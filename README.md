@@ -49,3 +49,9 @@ Die Konfigurationsdatei befindet sich unter `.vscode/mcp.json` und enthält die 
 ## Lizenz
 
 Dieses Projekt steht unter der [MIT-Lizenz](LICENSE).
+
+## Dateien im Repository
+
+- **hallo.txt**: Eine einfache Textdatei mit der Nachricht "hallo bashar".
+- **hello_world.py**: Ein Python-Skript, das die Nachricht "Hello, World!!" ausgibt.
+- **mcp_server_github.txt**: Eine Beschreibung eines MCP-Servers und dessen Nutzung.
