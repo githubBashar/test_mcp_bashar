@@ -43,5 +43,5 @@ jobs:
         password: ${{ secrets.EMAIL_PASSWORD }}
         subject: "CI Pipeline Results"
         body: "The CI pipeline has completed. Check the results."
-        to: your-email@example.com
+        to: alkHATIBBASHAR5@GMAIL.COM
         from: ${{ secrets.EMAIL_USERNAME }}
