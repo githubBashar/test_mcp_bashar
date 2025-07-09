@@ -1,5 +1,6 @@
-# Dieses Skript gibt die Nachricht "Hello, World!" aus.
-# Es dient als einfaches Beispiel für ein Python-Programm.
+# Dieses Skript gibt Nachrichten aus, die in einer Schleife alternierend angezeigt werden.
+# Die Nachrichten werden in einer Liste gespeichert und basierend auf dem Modulo-Wert der Iteration darauf zugegriffen.
+# Dadurch wird die Wiederholung von Code reduziert und die Lesbarkeit verbessert.
 
 messages = ["Hello, World!", "Helloooo", "Hgello Wold"]
 for i in range(20):

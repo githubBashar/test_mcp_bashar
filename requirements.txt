@@ -1,0 +1,3 @@
+# Diese Datei definiert die Python-Abhängigkeiten für das Projekt.
+# Derzeit gibt es keine spezifischen Abhängigkeiten.
+# Wenn Abhängigkeiten hinzugefügt werden, sollten sie hier aufgelistet werden.
